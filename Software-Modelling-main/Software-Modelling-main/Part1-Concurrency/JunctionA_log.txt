@@ -1,0 +1,60 @@
+Time: 1m0s -JunctionA: 9 cars through from , 0 cars waiting.
+Time: 2m0s -JunctionA: 6 cars through from , 0 cars waiting.
+Time: 3m0s -JunctionA: 12 cars through from , 6 cars waiting.
+Time: 4m0s -JunctionA: 1 cars through from , 1 cars waiting.
+Time: 5m0s -JunctionA: 4 cars through from , 20 cars waiting. : GRIDLOCK
+Time: 6m0s -JunctionA: 6 cars through from , 0 cars waiting.
+Time: 7m0s -JunctionA: 12 cars through from , 27 cars waiting. : GRIDLOCK
+Time: 8m0s -JunctionA: 12 cars through from , 1 cars waiting. : GRIDLOCK
+Time: 9m0s -JunctionA: 12 cars through from , 33 cars waiting. : GRIDLOCK
+Time: 10m0s -JunctionA: 5 cars through from , 1 cars waiting. : GRIDLOCK
+Time: 11m0s -JunctionA: 5 cars through from , 46 cars waiting. : GRIDLOCK
+Time: 12m0s -JunctionA: 7 cars through from , 0 cars waiting.
+Time: 13m0s -JunctionA: 12 cars through from , 53 cars waiting. : GRIDLOCK
+Time: 14m0s -JunctionA: 11 cars through from , 0 cars waiting.
+Time: 15m0s -JunctionA: 9 cars through from , 59 cars waiting. : GRIDLOCK
+Time: 16m0s -JunctionA: 1 cars through from , 0 cars waiting.
+Time: 17m0s -JunctionA: 12 cars through from , 57 cars waiting. : GRIDLOCK
+Time: 18m0s -JunctionA: 7 cars through from , 0 cars waiting.
+Time: 19m0s -JunctionA: 10 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 20m0s -JunctionA: 5 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 21m0s -JunctionA: 11 cars through from , 58 cars waiting. : GRIDLOCK
+Time: 22m0s -JunctionA: 8 cars through from , 4 cars waiting. : GRIDLOCK
+Time: 23m0s -JunctionA: 9 cars through from , 59 cars waiting. : GRIDLOCK
+Time: 24m0s -JunctionA: 5 cars through from , 2 cars waiting. : GRIDLOCK
+Time: 25m0s -JunctionA: 7 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 26m0s -JunctionA: 5 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 27m0s -JunctionA: 12 cars through from , 57 cars waiting. : GRIDLOCK
+Time: 28m0s -JunctionA: 6 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 29m0s -JunctionA: 9 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 30m0s -JunctionA: 5 cars through from , 2 cars waiting. : GRIDLOCK
+Time: 31m0s -JunctionA: 11 cars through from , 58 cars waiting. : GRIDLOCK
+Time: 32m0s -JunctionA: 6 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 33m0s -JunctionA: 12 cars through from , 57 cars waiting. : GRIDLOCK
+Time: 34m0s -JunctionA: 8 cars through from , 3 cars waiting. : GRIDLOCK
+Time: 35m0s -JunctionA: 4 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 36m0s -JunctionA: 7 cars through from , 0 cars waiting.
+Time: 37m0s -JunctionA: 9 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 38m0s -JunctionA: 9 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 39m0s -JunctionA: 10 cars through from , 58 cars waiting. : GRIDLOCK
+Time: 40m0s -JunctionA: 5 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 41m0s -JunctionA: 7 cars through from , 59 cars waiting. : GRIDLOCK
+Time: 42m0s -JunctionA: 5 cars through from , 2 cars waiting. : GRIDLOCK
+Time: 43m0s -JunctionA: 9 cars through from , 59 cars waiting. : GRIDLOCK
+Time: 44m0s -JunctionA: 5 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 45m0s -JunctionA: 8 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 46m0s -JunctionA: 5 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 47m0s -JunctionA: 9 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 48m0s -JunctionA: 7 cars through from , 0 cars waiting.
+Time: 49m0s -JunctionA: 12 cars through from , 57 cars waiting. : GRIDLOCK
+Time: 50m0s -JunctionA: 5 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 51m0s -JunctionA: 12 cars through from , 57 cars waiting. : GRIDLOCK
+Time: 52m0s -JunctionA: 6 cars through from , 6 cars waiting. : GRIDLOCK
+Time: 53m0s -JunctionA: 9 cars through from , 60 cars waiting. : GRIDLOCK
+Time: 54m0s -JunctionA: 5 cars through from , 2 cars waiting. : GRIDLOCK
+Time: 55m0s -JunctionA: 10 cars through from , 57 cars waiting. : GRIDLOCK
+Time: 56m0s -JunctionA: 7 cars through from , 7 cars waiting. : GRIDLOCK
+Time: 57m0s -JunctionA: 9 cars through from , 59 cars waiting. : GRIDLOCK
+Time: 58m0s -JunctionA: 5 cars through from , 4 cars waiting. : GRIDLOCK
+Time: 59m0s -JunctionA: 10 cars through from , 59 cars waiting. : GRIDLOCK
+Time: 60m0s -JunctionA: 5 cars through from , 2 cars waiting. : GRIDLOCK
